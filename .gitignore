@@ -223,3 +223,8 @@ pip-log.txt
 reservation_back/
 openDB.php
 password_protect.php
+images/
+jquery/
+house_photos/
+housePhoto/
+picture_library/
